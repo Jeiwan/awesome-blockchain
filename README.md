@@ -1,5 +1,18 @@
 ## Awesome Blockchain for Developers
 
+# Table of Contents
+* [Bitcoin](#bitcoin)
+    * [Essentials](#essentials)
+    * [Articles](#articles)
+    * [Books](#books)
+    * [Resources](#resources)
+    * [Videos](#videos)
+* [Ethereum](#ethereum)
+    * [Essentials](#essentials-1)
+    * [Articles](#articles-1)
+    * [Books](#books-1)
+    * [Resources](#resources-1)
+
 # Bitcoin
 ## Essentials
 1. [Whitepaper](https://bitcoin.org/bitcoin.pdf)
