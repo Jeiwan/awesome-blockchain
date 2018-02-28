@@ -1,17 +1,25 @@
 ## Awesome Blockchain for Developers
 
-# Table of Contents
-* [Bitcoin](#bitcoin)
-    * [Essentials](#essentials)
-    * [Articles](#articles)
-    * [Books](#books)
-    * [Resources](#resources)
-    * [Videos](#videos)
-* [Ethereum](#ethereum)
-    * [Essentials](#essentials-1)
-    * [Articles](#articles-1)
-    * [Books](#books-1)
-    * [Resources](#resources-1)
+Table of Contents
+=================
+   * [General](#general)
+      * [Articles](#articles)
+   * [Bitcoin](#bitcoin)
+      * [Essentials](#essentials)
+      * [Articles](#articles-1)
+      * [Books](#books)
+      * [Resources](#resources)
+      * [Videos](#videos)
+   * [Ethereum](#ethereum)
+      * [Essentials](#essentials-1)
+      * [Articles](#articles-2)
+      * [Books](#books-1)
+      * [Resources](#resources-1)
+      * [Videos](#videos-1)
+
+# General
+## Articles
+1. [Building for the Blockchain](https://blog.ycombinator.com/building-for-the-blockchain/)
 
 # Bitcoin
 ## Essentials
@@ -44,6 +52,7 @@
 
 
 ## Books
+1. [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) (WIP)
 
 ## Resources
 
