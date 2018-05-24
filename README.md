@@ -49,7 +49,7 @@ Table of Contents
 2. [Developer Reference](https://github.com/minium/Bitcoin-Spec/blob/master/Bitcoin.pdf)
 
 ### Articles
-1. [Building Blockchain in Go](https://jeiwan.cc/posts/building-blockchain-in-go-part-1/) Series. [[2](https://jeiwan.cc/posts/building-blockchain-in-go-part-2/), [3](https://jeiwan.cc/posts/building-blockchain-in-go-part-3/), [4](https://jeiwan.cc/posts/building-blockchain-in-go-part-4/), [5](https://jeiwan.cc/posts/building-blockchain-in-go-part-5/), [6](https://jeiwan.cc/posts/building-blockchain-in-go-part-6/), [7](https://jeiwan.cc/posts/building-blockchain-in-go-part-7/)]
+1. [Building Blockchain in Go](https://jeiwan.cc/posts/building-blockchain-in-go-part-1/). Parts: [2](https://jeiwan.cc/posts/building-blockchain-in-go-part-2/), [3](https://jeiwan.cc/posts/building-blockchain-in-go-part-3/), [4](https://jeiwan.cc/posts/building-blockchain-in-go-part-4/), [5](https://jeiwan.cc/posts/building-blockchain-in-go-part-5/), [6](https://jeiwan.cc/posts/building-blockchain-in-go-part-6/), [7](https://jeiwan.cc/posts/building-blockchain-in-go-part-7/).
 1. :zap: [Lightning Network Overview and Developer Guide](http://dev.lightning.community/overview/)
 
 
@@ -71,6 +71,7 @@ Table of Contents
 ### Articles
 1. [A 101 Noob Intro to Programming Smart Contracts on Ethereum](https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4)
 1. [The Challenges of Building Ethereum Infrastructure](https://medium.com/@lopp/the-challenges-of-building-ethereum-infrastructure-87e443e47a4b)
+1. [Reversing Ethereum Smart Contracts](https://arvanaghi.com/blog/reversing-ethereum-smart-contracts/), [Part 2](https://arvanaghi.com/blog/reversing-ethereum-smart-contracts-pt2/)
 
 
 ### Books
