@@ -41,6 +41,7 @@ Table of Contents
 ## General
 ### Articles
 1. [Building for the Blockchain](https://blog.ycombinator.com/building-for-the-blockchain/)
+1. [Learn Blockchains by Building One](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
 
 ## Bitcoin
 ### Essentials
