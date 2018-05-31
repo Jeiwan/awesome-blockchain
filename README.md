@@ -78,5 +78,6 @@ Table of Contents
 1. [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) (WIP)
 
 ### Resources
+1. [Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)
 
 ### Videos
