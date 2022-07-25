@@ -58,7 +58,7 @@ Table of Contents
 
 ### Resources
 1. [BitcoinWiki Technical Pages](https://en.bitcoin.it/wiki/Category:Technical)
-
+2. [Explore Blockchain](https://kandi.openweaver.com/explore/blockchain)
 
 ### Videos
 
